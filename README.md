@@ -1,4 +1,4 @@
 - Hello, I am Emilia!
-- I am currently an engineering student living in Bucharest, Romania.
+- I am an engineering student living in Bucharest, Romania.
 - One of my passions is programming and I am willing to learn as many new things as possible.
 - At the moment, I am learning Java and C.
